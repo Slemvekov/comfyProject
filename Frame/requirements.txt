@@ -1,0 +1,9 @@
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+insightface==0.7.3
+onnxruntime-gpu==1.17.0
+# If you have no GPU, replace above with:
+# onnxruntime==1.17.0
+scipy==1.11.4
+requests
+tqdm
